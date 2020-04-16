@@ -1,0 +1,36 @@
+/**
+ * index.scss
+ * - Add any styles you want here!
+ */
+
+body {
+  background: #fff;
+}
+
+#Main{
+  background: #f5f5f5;
+  margin: 1em 2em;
+}
+
+#title{
+  padding: 2em 1em;
+}
+
+#img-caption{
+  font-size: 11px;
+  text-align: center;
+}
+
+#life-info{
+  display: block;
+  text-align: center;
+  margin: 2em auto;
+}
+
+#tribute-info{
+  margin: 4em auto;
+}
+
+#image{
+  display: block;
+}
